@@ -1,2 +1,2 @@
 # just-trim
-NONE
+
